@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+header {
+    width: 80%;
+    height: auto;
+    padding: 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-box{
+    background-image: url(portait-photos/IMG_4257-banner.jpeg);
+    width: 100%;
+    min-height: 200px;
+}
+
+body {
+    background-color: lightgray;
+    margin: 8px;
+    display: block;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    max-width: 50ch;
+    font-family: Arial, Helvetica, sans-serif;
+}
