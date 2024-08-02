@@ -30,7 +30,7 @@ p {
     max-width: 100ch;
 }
 
-#main-heading {
+#mainHeading {
     color: red;
     font-size: 30px;
     position: absolute;
@@ -42,4 +42,13 @@ p {
 
 .figcaption {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#testP {
+    font-size: 20px;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
 }
