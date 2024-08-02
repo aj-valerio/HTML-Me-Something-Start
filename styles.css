@@ -61,3 +61,26 @@ p {
 .funParagraph {
     color: green;
 }
+
+.imageRightOfText {
+    padding-left: 10px;
+    padding-top: 18px;
+}
+
+.textLeftOfImage {
+    float: left;
+    /* overflow: hidden; */
+    max-width: 40ch;
+    margin-left: 4%;
+}
+
+.imageLeftOfImage {
+    float: left;
+    margin-left: 4%;
+}
+
+.imageRightOfImage{
+    float: right;
+    padding-left: 10px;
+    padding-top: 18px;
+}
